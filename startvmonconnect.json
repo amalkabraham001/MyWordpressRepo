@@ -1,0 +1,1 @@
+{"properties":{"roleName":"WVD Start on Connect","description":"","assignableScopes":["/subscriptions/<subscriptions>"],"permissions":[{"actions":["Microsoft.Compute/virtualMachines/start/action","Microsoft.Compute/virtualMachines/read"],"notActions":[],"dataActions":[],"notDataActions":[]}]}}
